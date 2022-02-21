@@ -1825,3 +1825,23 @@ $notesWidthPercent: 25%;
 @import 'print/pdf.scss';
 @import 'print/paper.scss';
 
+/*********************************************
+ * ATTRIBUTION STYLE
+ *********************************************/
+ .attribution {
+    position:absolute;
+    bottom:-490px;
+    right:-120px;
+    font-size:0.3em
+}
+
+/*********************************************
+ * REFERENCE STYLE
+ *********************************************/
+ .reference {
+    position:absolute;
+    bottom:0;
+    right:-120px;
+    font-size:0.3em
+}
+
